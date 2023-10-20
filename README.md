@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Kapil</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on **social media wab app**
+- 🔭 I’m currently working on **social media web app**
 
 - 🌱 I’m currently learning **Typescript**
 
